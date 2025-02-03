@@ -1,5 +1,7 @@
 ## Hi there 👋
-**Hello my name is Minerva!**
+**Hello my name is Minerva and I'm a computer science major!**
+**Here's a picture of my dogs:**
+![Image_20241224_014132](https://github.com/user-attachments/assets/74bcbcb7-3652-4bfc-9b88-f6a1adc4a075)
 
 
 **minervapaulet/minervapaulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
